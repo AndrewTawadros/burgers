@@ -1,4 +1,3 @@
-# burgers
 ### Eat-Da-Burger! 
 
 * This restaurant app lets users input the names of burgers they'd like to eat.
